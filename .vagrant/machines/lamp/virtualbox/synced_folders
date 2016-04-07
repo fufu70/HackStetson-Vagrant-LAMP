@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/website":{"guestpath":"/var/www/website","hostpath":"/Users/Christian/test-vagrant/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Christian/test-vagrant","disabled":false,"__vagrantfile":true}}}
