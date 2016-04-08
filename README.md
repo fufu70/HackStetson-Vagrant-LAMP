@@ -10,7 +10,7 @@ Now that we have installed our dependencies lets start setting up vagrant
 
 First lets type in the  in your console: 
 
-$ vagrant init 
+> $ vagrant init 
 
 Now lets setup the Vagrantfile to install a basic virtual box:
 
