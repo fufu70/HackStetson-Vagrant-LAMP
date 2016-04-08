@@ -1,5 +1,7 @@
 ##WubbaLubbadubdub!!!
 
+Wanna setup [Vagrant NodeJS instead?](https://github.com/fufu70/HackStetson-Vagrant-NodeJS)
+
 ###Setting up vagrant
 
 So your trying to setup a basic LAMP environment for your team mates but its taking too much time, TIME TO SETUP VAGRANT!
