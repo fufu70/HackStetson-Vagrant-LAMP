@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Updating repository
+# Updating Box
 
 sudo apt-get -y update
 
